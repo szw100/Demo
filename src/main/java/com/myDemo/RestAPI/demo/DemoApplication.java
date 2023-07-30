@@ -17,6 +17,6 @@ public class DemoApplication {
 
 	@GetMapping("/message")
 	String getMessage(){
-		return "Hello from ap-southeast-2";
+		return "Hello from Zhenwei";
 	}
 }
