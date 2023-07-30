@@ -17,6 +17,6 @@ public class DemoApplication {
 
 	@GetMapping("/message")
 	String getMessage(){
-		return "Hello from Zhenwei";
+		return "Hello from Zhenwei!";
 	}
 }
